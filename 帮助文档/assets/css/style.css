@@ -1,0 +1,106 @@
+/* ------------------------------------------------------------------------ -
+* Template Name    : BeShop - Beauty eCommerce HTML Template				 *
+* Author           : George_Fx                                               *
+* Version          : 1.0                                            		 *
+* Created          : November 2020                                    		 *
+* File Description : Index Css file of the template                    		 *
+--------------------------------------------------------------------------*/
+
+/*=== 1.Header =======================================*/
+header {
+	padding: 160px 0 100px;
+}
+header h1 {
+	color: var(--typeColor);
+	margin-bottom: 20px;
+	font-size: 36px;
+}
+header p {
+	color: var(--pColor);
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+header .note {
+	margin-top: 30px;
+	padding: 60px;
+	font-size: 20px;
+	color: var(--pColor);
+	border: 1px solid var(--border-color);
+	border-radius: 4px;
+}
+
+/*=== 2.Intro ========================================*/
+.intro h3 {
+	text-transform: capitalize;
+	font-size: 28px;
+	margin-bottom: 20px;
+	color: var(--typeColor);
+	padding-bottom: 10px;
+	border-bottom: 1px dashed var(--pColor);
+}
+.intro li {
+	list-style: none;
+	font-size: 17px;
+	color: var(--pColor);
+	margin-bottom: 5px;
+}
+.intro i {
+	color: var(--mainColor);
+}
+
+/*=== 3.Code Section =================================*/
+.code-s h3 {
+	text-transform: capitalize;
+	font-size: 24px;
+	margin-bottom: 20px;
+	color: var(--typeColor);
+	padding-bottom: 10px;
+	border-bottom: 1px dashed var(--pColor);
+}
+.code-s .container > p {
+	font-size: 16px;
+	font-weight: 500;
+	color: var(--pColor);
+}
+.code-s .list li {
+	list-style: none;
+	color: var(--pColor);
+	margin-bottom: 5px;
+	/* display */
+	display: -webkit-box;
+	display: flex;
+	-webkit-box-align: baseline;
+	align-items: baseline;
+}
+.code-s .list li b {
+	width: fit-content;
+	white-space: nowrap;
+	min-width: 100px;
+}
+.code-s .list li i {
+	margin-right: 20px !important;
+}
+.code-s .list li .name {
+	display: inline-block;
+	min-width: 200px;
+}
+.code-s .css-list li .name {
+	min-width: 200px;
+}
+.code-s .list li a {
+	margin-left: 5px;
+}
+
+/*=== 4.Customize =================================*/
+.cust p {
+	font-size: 15px;
+	color: var(--typeColor);
+}
+.cust .copyright {
+	text-align: center;
+	border-top: 1px solid var(--border-color);
+	padding: 10px 0;
+	font-size: 15px;
+	color: var(--pColor);
+	font-weight: bold;
+}

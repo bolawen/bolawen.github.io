@@ -1,0 +1,45 @@
+
+.prettyprint {
+  padding: 20px 8px;
+  background-color: #292d3e;
+  border: 1px solid #e1e1e8;
+  border-radius: 4px;
+}
+.prettyprint.linenums {
+  -webkit-box-shadow: inset 40px 0 0 #1b1e2b, inset 41px 0 0 #000;
+     -moz-box-shadow: inset 40px 0 0 #1b1e2b, inset 41px 0 0 #000;
+          box-shadow: inset 40px 0 0 #1b1e2b, inset 41px 0 0 #000;
+}
+/* html */
+.com { color: #676e95; }
+.lit { color: #195f91; }
+.pun, .opn, .clo { color: #93a1a1; }
+.fun { color: #dc322f; }
+.str, .atv { color: #c3e88d; }
+.kwd, .linenums .tag { color: #f07178; }
+.kwd, .linenums .tag-q {color: #89d8ea; }
+.typ, .atn, .dec, .var { color: #bc8cea; }
+.pln { color: #8a9eca; }
+/* css */
+.lang-css .pun, .opn, .clo {color: #89ddff;}
+.lang-css .pln {color: #ffcb6b;}
+.lang-css .tag {color: #f07178;}
+.lang-css .prop {color: #b2ccd6;}
+.lang-css .com {color: #676e95;}
+.lang-css .num {color: #f78c6c;}
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+  padding-inline-start: 38px;
+  margin-bottom: 0;
+} 
+ol.linenums li {
+  padding-left: 15px;
+  font-size: 15px;
+  color: #34394f;
+  line-height: 18px;
+  list-style: decimal;
+  font-family: 'Courier New', monospace !important;
+}
+ol.linenums li:not(:last-child) {
+  margin-bottom: 5px;
+}
