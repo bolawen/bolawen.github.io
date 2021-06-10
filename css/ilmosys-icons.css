@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'ilmosys-icons';
+  src:  url('../fonts/ilmosys-icons.eot?e25dab');
+  src:  url('../fonts/ilmosys-icons.eot?e25dab#iefix') format('embedded-opentype'),
+    url('../fonts/ilmosys-icons.ttf?e25dab') format('truetype'),
+    url('../fonts/ilmosys-icons.woff?e25dab') format('woff'),
+    url('../fonts/ilmosys-icons.svg?e25dab#ilmosys-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="ilmosys-"], [class*="ilmosys-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'ilmosys-icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+}
+
+.ilmosys-calendar-full:before {
+  content: "\e90a";
+}
+.ilmosys-car:before {
+  content: "\e90b";
+}
+.ilmosys-bus:before {
+  content: "\e90c";
+}
+.ilmosys-camera:before {
+  content: "\e90d";
+}
+.ilmosys-camera-video:before {
+  content: "\e90e";
+}
+.ilmosys-bug:before {
+  content: "\e90f";
+}
+.ilmosys-book-2:before {
+  content: "\e910";
+}
+.ilmosys-bold:before {
+  content: "\e911";
+}
+.ilmosys-book:before {
+  content: "\e912";
+}
+.ilmosys-bicycle:before {
+  content: "\e913";
+}
+.ilmosys-alarm:before {
+  content: "\e900";
+}
+.ilmosys-apartment:before {
+  content: "\e901";
+}
+.ilmosys-arrow-down:before {
+  content: "\e902";
+}
+.ilmosys-arrow-down-circle:before {
+  content: "\e903";
+}
+.ilmosys-arrow-left:before {
+  content: "\e904";
+}
+.ilmosys-arrow-left-circle:before {
+  content: "\e905";
+}
+.ilmosys-arrow-right:before {
+  content: "\e906";
+}
+.ilmosys-arrow-right-circle:before {
+  content: "\e907";
+}
+.ilmosys-arrow-up:before {
+  content: "\e908";
+}
+.ilmosys-arrow-up-circle:before {
+  content: "\e909";
+}
+
