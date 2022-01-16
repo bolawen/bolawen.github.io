@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[4],{4291:function(e){e.exports=JSON.parse('{"title":"technology","slug":"/category/technology","permalink":"/docs/category/technology","navigation":{}}')}}]);

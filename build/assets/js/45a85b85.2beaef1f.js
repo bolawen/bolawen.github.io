@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[572],{3382:function(e){e.exports=JSON.parse('{"title":"vue","slug":"/category/vue","permalink":"/docs/category/vue","navigation":{}}')}}]);

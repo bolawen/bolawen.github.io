@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[15],{5754:function(e){e.exports=JSON.parse('{"title":"knowledge","slug":"/category/knowledge","permalink":"./docs/category/knowledge","navigation":{}}')}}]);

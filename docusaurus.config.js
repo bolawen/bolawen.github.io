@@ -12,7 +12,7 @@ const config = {
   title: '柏拉文',
   tagline: '越努力，越幸运',
   url: 'https://bolawen.com/BlogR',
-  baseUrl: '/',
+  baseUrl: './',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[222],{8480:function(e){e.exports=JSON.parse('{"title":"vue2Apply","slug":"/category/vue2apply","permalink":"/docs/category/vue2apply","navigation":{}}')}}]);

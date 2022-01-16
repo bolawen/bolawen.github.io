@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[525],{1896:function(a){a.exports=JSON.parse('{"title":"React17Apply","slug":"/category/react17apply","permalink":"/docs/category/react17apply","navigation":{"next":{"title":"React.lazy()","permalink":"/docs/react17Apply/api/react/lazy"}}}')}}]);
