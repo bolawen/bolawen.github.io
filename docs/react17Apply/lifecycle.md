@@ -1,4 +1,0 @@
----
-id: lifecycle
-title: Lifecycle
----
