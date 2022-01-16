@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[989],{4153:function(a){a.exports=JSON.parse('{"allTagsPath":"./blog/tags","slug":"./blog/tags/facebook","name":"facebook","count":1,"permalink":"./blog/tags/facebook"}')}}]);
