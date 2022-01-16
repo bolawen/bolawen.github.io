@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[331],{10:function(e){e.exports=JSON.parse('{"title":"vue3SourceCode","slug":"/category/vue3sourcecode","permalink":"/docs/category/vue3sourcecode","navigation":{}}')}}]);

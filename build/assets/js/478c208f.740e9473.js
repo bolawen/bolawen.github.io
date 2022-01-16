@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbolawen_github_io=self.webpackChunkbolawen_github_io||[]).push([[766],{2198:function(e){e.exports=JSON.parse('{"title":"react","slug":"/category/react","permalink":"./docs/category/react","navigation":{}}')}}]);
