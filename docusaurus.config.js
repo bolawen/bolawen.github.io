@@ -11,8 +11,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '柏拉文',
   tagline: '越努力，越幸运',
-  url: 'https://bolawen.com/BlogR',
-  baseUrl: './',
+  url: 'https://bolawen.com/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
