@@ -1,0 +1,50 @@
+{
+	"Print2 to console": {
+		"prefix": "vue2",
+		"body": [
+			"<template>",
+			"\t<div class=\"\">",
+			"\t</div>",
+			"</template>",
+			"",
+			"<script>",
+			"export default{",
+			"\tcomponents:{},",
+			"\tdata(){",
+			"\t\treturn {",
+			"\t\t}",
+			"\t},",
+			"\twatch:{},",
+			"\tmounted(){},",
+			"\tmethods:{},",
+			"}",
+			"</script>",
+			"",
+			"<style lang=\"scss\" scoped>",
+			"</style>"
+		],
+		"description": "vue2 模版"
+	},
+	"Print3 to console": {
+		"prefix": "vue3",
+		"body": [
+			"<template>",
+			"\t<div class=\"\">",
+			"\t</div>",
+			"</template>",
+			"",
+			"<script lang=\"ts\">",
+			"import { defineComponent } from 'vue'",
+			"export default defineComponent({",
+			"\tname:'',",
+			"\tsetup(){",
+			"\t}",
+			" })",
+			"</script>",
+			"",
+			"<style lang=\"scss\" scoped>",
+			"</style>"
+		],
+		"description": "vue3 模版"
+	}
+}
